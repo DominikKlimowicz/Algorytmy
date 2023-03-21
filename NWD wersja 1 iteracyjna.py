@@ -6,3 +6,4 @@ def NWD(a,b):
             b=b-a
     return a
 print(NWD(12,18))
+print(NWD(28,24))
