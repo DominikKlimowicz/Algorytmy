@@ -6,6 +6,6 @@ def dzies_na_bin(dzies):
     return dzies_na_bin(pozostaly) + x
 
 # Testowanie algorytmu
-dzies = 10
+dzies = 60
 bin = dzies_na_bin(dzies)
 print(f"Liczba {dzies} w systemie binarnym to: {bin}")
